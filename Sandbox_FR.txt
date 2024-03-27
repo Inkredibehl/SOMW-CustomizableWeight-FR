@@ -1,0 +1,24 @@
+Sandbox_FR = {
+
+	Sandbox_SOMW = "Simple Overhaul: Melee Weapons",
+
+	Sandbox_SOMW_WoodWeight = "Poids des matériaux en bois :",
+	Sandbox_SOMW_WoodWeight_tooltip = "Par exemple : sélectionner 75% signifie que les matériaux en bois pèseront 25% de moins.",
+		
+	Sandbox_SOMW_WoodWeight_Values_option1 = "100%",	
+	Sandbox_SOMW_WoodWeight_Values_option2 = "75%",			
+	Sandbox_SOMW_WoodWeight_Values_option3 = "50%",
+	Sandbox_SOMW_WoodWeight_Values_option4 = "25%",
+	Sandbox_SOMW_WoodWeight_Values_option5 = "10%",	
+	
+	
+	Sandbox_SOMW_MetalWeight = "Poids des matériaux métalliques :",
+	Sandbox_SOMW_MetalWeight_tooltip = "Par exemple : sélectionner 75% signifie que les matériaux métalliques pèseront 25% de moins.",
+		
+	Sandbox_SOMW_MetalWeight_Values_option1 = "100%",	
+	Sandbox_SOMW_MetalWeight_Values_option2 = "75%",			
+	Sandbox_SOMW_MetalWeight_Values_option3 = "50%",
+	Sandbox_SOMW_MetalWeight_Values_option4 = "25%",
+	Sandbox_SOMW_MetalWeight_Values_option5 = "10%",	
+	
+}
